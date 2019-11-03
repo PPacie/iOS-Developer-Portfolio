@@ -119,4 +119,5 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 </p>
 
 **[Personal App Store](https://itunes.apple.com/us/developer/pablo-paciello/id834434174)**
+
 *Do not hesitate to contact me if you would like to get a promo code to have a look any of my indie apps.*
