@@ -118,4 +118,5 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 <a href="https://apps.apple.com/us/app/big-mac-index-app/id908062605" target="_blank"><img src="images/bigMacIndex/bigMacIndex.png" width="900" title="Big Mac Index"></a>
 </p>
 
-*Do not hesitate to ping me if you would like to get a promo code to have a look at any of the apps.*
+**[Personal App Store](https://itunes.apple.com/us/developer/pablo-paciello/id834434174)**
+*Do not hesitate to contact me if you would like to get a promo code to have a look any of my indie apps.*
