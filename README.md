@@ -1,4 +1,4 @@
-<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://apps.apple.com/us/developer/pablo-paciello/id834434174" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ## Buoywatch
 [Buoywatch](https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525) is an independent app which was made using **SwiftUI** and **Combine** as I've been playing around with the latest Apple frameworks since day one after the WWDC.
@@ -118,6 +118,4 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 <a href="https://apps.apple.com/us/app/big-mac-index-app/id908062605" target="_blank"><img src="images/bigMacIndex/bigMacIndex.png" width="900" title="Big Mac Index"></a>
 </p>
 
-**[Personal App Store](https://itunes.apple.com/us/developer/pablo-paciello/id834434174)**
-
-*Do not hesitate to contact me if you would like to get a promo code to have a look any of my indie apps.*
+*Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
