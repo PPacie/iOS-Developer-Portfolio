@@ -5,7 +5,7 @@
 It allows you to get real-time wave data and get aware when the surf is good at a glance.
 Too often swell arrives later than predicted, by checking the buoy data you can determine if the swell has arrived. If not, you can go back to bed =)
 
-##### 🔨Technologies: SwiftUI, Combine, Push Notifications, No third party libraries.
+##### 🔨Technologies: SwiftUI, Combine, MVVM, Notifications, No third party libraries.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS
 <p align="center">
 <a href="https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525" target="_blank"><img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch"></a>
